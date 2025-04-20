@@ -34,7 +34,7 @@ Diwali_Sales_Analysis/
 
 How to Run
 Clone this repository:
-git clone https://github.com/yourusername/Diwali_Sales_Analysis.git
+git clone https://github.com/Bitlingusaikumar/Diwali_Sales_Analysis.git
 cd Diwali_Sales_Analysis
 Install the required libraries (if not already install
 pip install numpy pandas matplotlib seaborn.
