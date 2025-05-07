@@ -1,4 +1,4 @@
-Diwali Sales Analysis
+Sales Analysis
 This project provides an exploratory data analysis (EDA) of Diwali sales data to uncover insights about customer demographics and purchasing behavior during the festive season.
 The analysis helps businesses understand consumer patterns and optimize marketing strategies.
 
@@ -26,21 +26,23 @@ Seaborn
 Jupyter Notebook.
 
 Project Structure
-Diwali_Sales_Analysis/
+Sales_Analysis/
 │
 ├── Diwali_Sales_Analysis.ipynb    # Main analysis notebook
-├── Diwali Sales Data.csv          # Dataset file (required)
+
+├── Diwali Sales Data.csv          # Dataset file (required) 
+
 └── README.md                      # Project overview and instructions
 
 How to Run
 Clone this repository:
 git clone https:https://github.com/Bitlingusaikumar/sales/blob/main/Diwali_Sales_Analysis.ipynb
-cd Diwali_Sales_Analysis
+cd Sales_Analysis
 Install the required libraries (if not already install
-pip install numpy pandas matplotlib seaborn.
+pip install numpy pandas matplotlib seaborn.)
 
 Launch the Jupyter Notebook:
-jupyter notebook Diwali_Sales_Analysis.ipynb
+jupyter notebook Sales_Analysis.ipynb
 
 Explore the code and visualizations!
 
